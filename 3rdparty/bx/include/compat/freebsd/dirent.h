@@ -1,1 +1,1 @@
-#include <sys/dirent.h>
+#include_next <dirent.h>
